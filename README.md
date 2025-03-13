@@ -24,3 +24,5 @@ submission
 ### Points of focus:
 - Code cleanliness, following programming principles and design patterns.
 - Architecture, code separation by files, project structure.
+
+<img width="800" alt="app screenshot" src="https://github.com/user-attachments/assets/d85f682d-8e5e-4a73-8dc7-8572bafb0cee" />
