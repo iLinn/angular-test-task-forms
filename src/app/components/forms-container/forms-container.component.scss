@@ -1,0 +1,16 @@
+.card.border-dashed {
+  cursor: pointer;
+  min-height: 300px;
+  background-color: #f8f9fa;
+}
+
+.btn {
+  &.rounded-circle {
+    width: 5rem;
+    height: 5rem;
+    
+    span {
+      vertical-align: text-bottom;
+    }
+  }
+}
